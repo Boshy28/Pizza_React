@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm run server`
+
+Runs the json-server wich is used to emulate backend and return DB of pizzas in JSON format.\
+Open [http://localhost:3001/pizzas](http://localhost:3001/pizzas) to view it in your browser.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
